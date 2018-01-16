@@ -1,0 +1,19 @@
+/*  Custom styles for XX App
+*/
+
+/* ***** Variable definitions for common colors and backgrounds
+ */
+
+ root: {
+   --background-color: darkcyan;
+   --text-color: cyan;
+ }
+
+ /* ***** General settings, defaults
+  */
+  html,
+  body {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: lightgray;
+  }
